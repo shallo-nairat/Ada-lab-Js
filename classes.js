@@ -26,6 +26,6 @@ class Student extends Person{
 
 const student= new Student('Jane',19,'AkiraChix');
 console.log({student});
-student.proffesion();  
+student.proffesion();  =
 
  
